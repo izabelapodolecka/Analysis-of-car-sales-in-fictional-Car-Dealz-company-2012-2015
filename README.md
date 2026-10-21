@@ -11,7 +11,7 @@ An end-to-end data analysis project focused on exploring secondary automotive ma
 | Dashboard Page | Preview |
 | :--- | :--- |
 | **1. Key Insights** | ![Key Insights Page](./images/01_key_insights.png) |
-| **2. Overview Dashboard** | ![Overview Page](./images/02_overview.png) |
+| **2. Overview Dashboard** | ![Overview Page](Screenshot 2026-10-21 165149.png) |
 | **3. Pricing Dashboard** | ![Pricing Page](./images/03_pricing.png) |
 | **4. Vehicle Analysis Dashboard** | ![Vehicle Analysis Page](./images/04_vehicle_analysis.png) |
 
